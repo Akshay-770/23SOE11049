@@ -21,7 +21,7 @@ namespace net_bd
             Console.WriteLine($"sum is {a} + {b} " + sum);
             Console.ReadLine();
         }
-
+         
 
     }
 }
